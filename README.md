@@ -61,8 +61,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 - [Flutter](https://flutter.dev) - UI toolkit for building natively compiled applications
 - [Provider](https://pub.dev/packages/provider) - State management
-- [Hive](https://pub.dev/packages/hive) - Lightweight and blazing fast key-value database
-
-## Contact
-
-Project Link: [https://github.com/shantanu-bandarkar/habit_tracker_app](https://github.com/shantanu-bandarkar/habit_tracker_app)
+- [Isar](https://pub.dev/packages/isar) - Lightweight and blazing fast key-value database
