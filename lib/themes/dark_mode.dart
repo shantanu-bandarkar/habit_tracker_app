@@ -6,7 +6,7 @@ ThemeData darkMode = ThemeData(
     brightness: Brightness.dark,
   ).copyWith(
     primary: Colors.grey.shade600,
-    secondary: Colors.grey.shade700,
+    secondary: const Color.fromARGB(255, 44, 44, 44),
     tertiary: Colors.grey.shade800,
     inversePrimary: Colors.grey.shade300,
   ),
